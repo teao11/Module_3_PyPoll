@@ -17,12 +17,9 @@ As you can see in the screenshot above, the largest county (in terms of vote vol
 
 Denver had the greatest number of votes with 82.8% (306,055).
 
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 <img width="288" alt="Screen Shot 2021-05-22 at 10 58 08 AM" src="https://user-images.githubusercontent.com/46773181/119236496-99c7fa00-baec-11eb-8927-c38ec974502c.png">
 
 As you can see in the output above, Charles Casper Stockham received 23.0% (85,213) of the votes, Diana DeGette received 73.8% (272,892) of the vote, and Raymon Anthony Doane received 3.1% (11,606) of the votes.
-
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 <img width="199" alt="Screen Shot 2021-05-22 at 10 57 50 AM" src="https://user-images.githubusercontent.com/46773181/119236485-8f0d6500-baec-11eb-9af8-048ebd9297ac.png">
 
