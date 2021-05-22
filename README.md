@@ -3,7 +3,6 @@
 <h3>Overview of Election Audit</h3>
 The purpose of the election analysis was to put in to practice what we had learnt throughout the third module. We leveraged our knowledge of Python variables, objects, methods, data structures to read from a CSV of election results, analyze and display who won before writing to an output txt file.
 
-
 <h3>Election-Audit Results</h3>
 After running the analysis, I output the following results to the terminal / wrote to the txt file:
 
@@ -26,8 +25,6 @@ As you can see in the output above, Charles Casper Stockham received 23.0% (85,2
 Diania DeGette won the election by a massive margin, with 73.8% (272,892) of the votes.
 
 <h3>Election-Audit Summary</h3>
-
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 Dear Election Committee,
 
